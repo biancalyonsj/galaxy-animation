@@ -15,3 +15,13 @@ body {
     left: 0;
     outline: none;
 }
+
+.instructions {
+    display: flex;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: 17px;
+    position: absolute;
+    z-index: 99;
+    color: white;
+}
